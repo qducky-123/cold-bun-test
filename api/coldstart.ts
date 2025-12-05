@@ -1,5 +1,3 @@
-import { serve } from "bun";
-
 export default async function handler(req: Request) {
     const start = Date.now();
 
